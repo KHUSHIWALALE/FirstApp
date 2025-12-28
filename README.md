@@ -7,4 +7,4 @@ Basic Application in _html_
 
 [for more project](http://www.ccitworld.com)
 
-![app image](https://m.media-amazon.com/images/I/31eZqYrBywL.png)
+![app image](https://img.freepik.com/premium-photo/aromatic-bliss-spiced-masala-chai-white-background-delicious-photography_1020697-190981.jpg?semt=ais_hybrid&w=740&q=80)
