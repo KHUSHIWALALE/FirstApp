@@ -7,7 +7,7 @@ Basic Application in _html_
 
 [for more project](http://www.ccitworld.com)
 
-![app image](https://img.freepik.com/premium-photo/aromatic-bliss-spiced-masala-chai-white-background-delicious-photography_1020697-190981.jpg?semt=ais_hybrid&w=740&q=80)
+![app image](https://png.pngtree.com/thumb_back/fh260/background/20230529/pngtree-fresh-milk-tea-or-indian-kadak-chai-top-view-image_2872467.jpg)
 
 ```python
   def demo():
