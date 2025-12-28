@@ -5,4 +5,4 @@ Basic Application in _html_
 2. CSS
 3. javascript
 
-[for more project](hhttp:google.com)
+[for more project](http://www.ccitworld.com)
